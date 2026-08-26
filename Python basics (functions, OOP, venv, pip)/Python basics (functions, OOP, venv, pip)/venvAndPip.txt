@@ -1,0 +1,74 @@
+Python venv — Virtual Environment
+1. What is a Virtual Environment?
+
+A virtual environment creates an isolated Python environment for a project.
+
+Without venv:
+
+Project A ──┐
+            ├── same Python packages
+Project B ──┘
+
+
+With venv:
+
+Project A → venv → requests 2.x
+Project B → venv → requests 3.x
+
+
+Create environment:
+python -m venv .venv
+where:
+python     → Python interpreter
+-m venv    → run Python's built-in venv module
+.venv       → name of the environment
+
+Activate venv:
+.venv\Scripts\activate
+
+
+When finished:
+>deactivate
+The (.venv) disappears.
+
+
+Delete a Virtual Environment
+A virtual environment is just a folder.
+
+Windows
+rmdir /s /q .venv
+
+
+Create venv with a Specific Python Version
+
+If multiple Python versions are installed:
+
+Windows
+py -3.12 -m venv .venv
+
+
+
+
+
+
+
+
+
+What is pip?
+pip is Python's package installer and package manager.
+
+
+install
+python -m pip install numpy
+
+specific version install
+python -m pip install numpy==2.2.0
+
+if we want to Create requirement file from your current environment: 
+python -m pip freeze > requirements.txt
+
+It displays installed packages and versions.
+python -m pip freeze
+
+Install From requirements.txt
+python -m pip install -r requirements.txt
