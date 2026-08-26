@@ -1,0 +1,160 @@
+Git → Version control system running on your computer.
+
+GitHub → Online platform for hosting Git repositories and collaborating with others.
+
+
+Set username:
+git config --global user.name "Your Name"
+
+Set email:
+git config --global user.email "your@email.com"
+
+git config --list
+
+Check specific values:
+git config user.name
+git config user.email
+
+Initialize Git:
+git init
+
+check status:
+git status
+
+add everything to staging area:
+git add .
+
+git commit -m "Initial commit"
+
+
+View Commit History
+git log
+
+Compact version:
+git log --oneline
+
+a72f123 Add authentication
+b31c921 Add login page
+8d71234 Initial commit
+
+View Detailed Commit
+git show
+
+Specific commit:
+git show a72f123
+
+List branches:
+git branch
+
+create branch:
+git branch feature/login
+git checkout feature/login
+
+rename branch:
+Rename master to main:
+git branch -m master main
+
+Delete Branch
+
+Delete local branch:
+git branch -d feature/login
+
+Force delete:
+git branch -D feature/login
+
+
+GitHub Repository
+After creating a repository on GitHub, connect your local repository.
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+
+
+First push:
+git push -u origin main
+
+pull changes:
+git pull origin main
+
+merge changes:
+git merge feature/login
+
+
+conflict resolve:
+<<<<<<< HEAD
+Your current branch's version
+
+======
+Other branch's version
+
+>>>>>>> feature/login
+
+abort merge:
+git merge --abort
+
+rebase:
+git rebase feature/login
+
+
+revert commit:
+git revert COMMIT_ID
+
+delete file from GitHub:
+git rm filename
+
+
+stash changes:
+Stash temporarily stores uncommitted changes.
+git stash
+
+List stashes:
+git stash list
+
+Apply latest stash:
+git stash apply
+
+Apply and remove stash:
+git stash pop
+
+Stash with a message:
+git stash push -m "Login work"
+
+Delete a stash:
+git stash drop
+
+Delete all stashes:
+git stash clear
+
+
+
+all commands:
+git init
+git clone URL
+
+git status
+git add .
+git commit -m "message"
+
+git branch
+git switch -c feature/name
+git switch main
+git merge feature/name
+
+git remote -v
+git push
+git pull
+git fetch
+
+git log --oneline
+git diff
+
+git stash
+git stash pop
+
+git restore --staged file
+git restore file
+
+git revert COMMIT_ID
+git merge --abort
+git rebase --abort
+
+git branch -d branch-name
+git push origin --delete branch-name
