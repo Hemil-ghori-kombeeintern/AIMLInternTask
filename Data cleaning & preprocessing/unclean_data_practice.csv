@@ -1,0 +1,31 @@
+id,name,age,city,gender,salary,joining_date,department
+1, Hemil Ghori ,22,SURAT,Male,30000,2025-01-15,AI/ML
+2,rahul patel,,surat,male,"35,000",15/02/2025,MERN
+3, PRIYA SHAH,21,null,Female,₹42000,2025/03/10,AI/ML
+4,Amit Kumar,twenty-four,AHMEDABAD,M,45000,2025-04-05,Data
+5,Neha Patel,23, ahmedabad ,F,N/A,05-05-2025,data
+6,Raj Mehta,25,Mumbai,Male,50000,2025-06-12,MERN
+7,Kiran Joshi,150,Pune,Female,-10000,2025-06-20,AI/ML
+8,Dev Shah,27,mumbai,Male,60000,invalid-date,AI/ML
+9,  Sneha Desai,24,SURAT,Female, ,2025-08-01,Data
+10,Vivek Singh,26,Delhi,male,70000,,MERN
+11,Riya Shah,22,surat,FEMALE,48000,2025-09-10,AI/ML
+12,Arjun Mehta,29,Mumbai,Male,80000,2025-10-11,MERN
+13,Mehul Patel,31,Ahmedabad,Male,90000,2025-10-15,Data
+14,Pooja Shah,20,Pune,Female,25000,2025-11-01,AI/ML
+15,Jay Patel,28, Surat ,Male,40000,2025-11-12,MERN
+16,N/A,27,Delhi,Male,65000,2025-11-20,Data
+17,Anjali Shah,26,,Female,52000,2025-12-01,AI/ML
+18,Rohan Patel,30,Ahmedabad,Male,75000,2025-12-05,MERN
+19,   ,24,Mumbai,Female,58000,2025-12-10,Data
+20,Isha Mehta,23,Pune,Female,62000,2025-12-15,AI/ML
+1, Hemil Ghori ,22,SURAT,Male,30000,2025-01-15,AI/ML
+2,Rahul Patel ,22,SURAT,Male,35000,15/02/2025,MERN
+23,Nitin Shah,25,Bombay,Male,51000,2025-07-01,Data
+24,Kajal Joshi,21,Pune,Female,NaN,2025-07-05,AI/ML
+25,Om Patel,999,Ahmedabad,Male,9999999,2025-07-10,MERN
+26,Tina Shah,19,Surat,Female,27000,2025-07-15,data
+27,Vishal Mehta,33,Delhi,Male,88000,2025-07-20,MERN
+28,Maya Patel,26,surat,Female,invalid,2025-07-25,AI/ML
+29,Rakesh Kumar,28,Ahmedabad,Male,72000,2025-08-05,Data
+30,Nisha Shah,25,PUNE,Female,54000,2025-08-10,AI/ML
