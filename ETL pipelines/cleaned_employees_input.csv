@@ -1,0 +1,21 @@
+id,name,age,city,gender,salary,department
+1,Hemil Ghori,22.0,Surat,Male,30000.0,AI/ML
+2,Rahul Patel,23.0,Surat,Male,35000.0,MERN
+3,Priya Shah,21.0,Ahmedabad,Female,42000.0,AI/ML
+4,Amit Kumar,24.0,Ahmedabad,Male,45000.0,Data
+5,Neha Patel,24.5,Mumbai,Female,46000.0,data
+6,Raj Mehta,25.0,Mumbai,Male,50000.0,MERN
+7,Kiran Joshi,150.0,Pune,Female,0.0,AI/ML
+8,Dev Shah,27.0,Mumbai,Male,60000.0,AI/ML
+9,Sneha Desai,24.0,Surat,Female,55000.0,Data
+10,Vivek Singh,26.0,Delhi,Male,70000.0,MERN
+11,Rohan Desai,23.0,Surat,Male,48000.0,MERN
+12,Anjali Trivedi,22.0,Ahmedabad,Female,38000.0,AI/ML
+13,Karan Patel,24.5,Pune,Male,46000.0,data
+14,Pooja Sharma,25.0,Delhi,Female,47000.0,MERN
+15,Mehul Gandhi,28.0,Surat,Male,52000.0,AI/ML
+16,Riya Kothari,-5.0,Mumbai,Female,41000.0,Data
+17,Yash Verma,26.0,Surat,Male,65000.0,MERN
+18,Nisha Mistry,24.0,Ahmedabad,Female,0.0,AI/ML
+19,Chirag Shah,27.0,Pune,Male,58000.0,data
+20,Ravi Kumar,135.0,Delhi,Male,0.0,MERN
