@@ -1,0 +1,27 @@
+employee_id,name,age,city,department,salary,joining_date,email
+1026,Deepak Choksi,26.0,Surat,MERN,46000.0,2026-08-26,deepak@example.com
+1027,Aarti Patel,-2.0,Ahmedabad,AI/ML,55000.0,2026-08-27,aarti@example.com
+1028,Suresh Desai,29.0,surat,DATA,61000.0,invalid-date,suresh@example.com
+1029,Gita Shah,25.0,Mumbai,mern,50000.0,2026-08-29,gita@example.com
+1030,,28.0,Pune,AI/ML,85000.0,2026-08-30,missing_name@example.com
+1031,Karan Mehta,22.0,Delhi,DATA,-15000.0,2026-08-31,karan@example.com
+1032,Bhavna Patel,27.0,,MERN,47000.0,2026-09-01,bhavna@example.com
+1033,Jayesh Joshi,31.0,Ahmedabad,AI/ML,,2026-09-02,jayesh@example.com
+1034,Hina Kothari,205.0,Surat,DATA,68000.0,2026-09-03,hina@example.com
+1035,Sanjay Kumar,24.0,Bombay,HR,42000.0,2026-09-04,sanjay@example.com
+1036,Meera Gandhi,26.0,Pune,AI/ML,9999999.0,2026-09-05,meera@example.com
+1037,Ramesh Patel,23.0,Surat,MERN,38000.0,2026-09-06,invalid-email
+1038,Avni Desai,,Mumbai,DATA,54000.0,2026-09-07,avni@example.com
+1039,Manoj Shah,28.0,Ahmedabad,AI/ML,71000.0,,manoj@example.com
+1040,Kavita Singh,25.0,Delhi,DATA,62000.0,2026-09-09,
+1041,Yash Patel,29.0,Surat,MERN,59000.0,2026-09-10,yash@example.com
+1042,Divya Joshi,22.0,Ahmedabad,ai/ml,48000.0,2026-09-11,divya@example.com
+1043,Amitabh Verma,30.0,Pune,DATA,82000.0,2026-09-12,amitabh@example.com
+1044,Shruti Shah,26.0,Surat,HR,45000.0,2026/09/13,shruti@example.com
+1045,Viral Mehta,33.0,Mumbai,MERN,77000.0,2026-09-14,viral@example.com
+1045,Viral Mehta,33.0,Mumbai,MERN,77000.0,2026-09-14,viral@example.com
+1046,Pratik Gandhi,27.0,Delhi,DATA,64000.0,2026-09-16,pratik@example.com
+1047,Nidhi Patel,24.0,Ahmedabad,MERN,53000.0,2026-09-17,nidhi@example.com
+1048,Darshan Shah,35.0,Surat,AI/ML,88000.0,2026-09-18,darshan@example.com
+1049,Bumi Desai,21.0,Pune,DATA,39000.0,2026-09-19,bumi@example.com
+1050,Ronak Patel,28.0,Mumbai,MERN,0.0,2026-09-20,ronak@example.com

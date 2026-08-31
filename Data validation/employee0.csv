@@ -1,0 +1,27 @@
+employee_id,name,age,city,department,salary,joining_date,email
+1001,Hemil Ghori,22.0,Surat,AI/ML,30000.0,2026-08-01,hemil@example.com
+1002,Rahul Patel,23.0,Ahmedabad,MERN,35000.0,2026-08-02,rahul@example.com
+1003,Priya Shah,21.0,Mumbai,DATA,42000.0,2026-08-03,priya@example.com
+1004,Amit Kumar,24.0,Pune,AI/ML,45000.0,2026-08-04,amit@example.com
+1005,Neha Patel,25.0,Delhi,MERN,50000.0,2026-08-05,neha@example.com
+1006,Raj Mehta,26.0,Surat,DATA,55000.0,2026-08-06,raj@example.com
+1007,Kiran Joshi,27.0,Mumbai,AI/ML,-10000.0,2026-08-07,kiran@example.com
+1008,Dev Shah,28.0,Surat,MERN,60000.0,invalid-date,dev@example.com
+1009,Sneha Desai,29.0,Ahmedabad,DATA,65000.0,2026-08-09,invalid-email
+1010,Vivek Singh,17.0,Delhi,AI/ML,70000.0,2026-08-10,vivek@example.com
+1011,Riya Shah,31.0,Pune,HR,48000.0,2026-08-11,riya@example.com
+1012,Arjun Mehta,32.0,Surat,MERN,,2026-08-12,arjun@example.com
+1013,Mehul Patel,,Mumbai,DATA,90000.0,2026-08-13,mehul@example.com
+1014,,25.0,Delhi,AI/ML,52000.0,2026-08-14,unknown@example.com
+1015,Pooja Shah,26.0,,MERN,53000.0,2026-08-15,pooja@example.com
+1016,Jay Patel,27.0,Surat,DATA,58000.0,2026-08-16,
+1017,Isha Mehta,28.0,Ahmedabad,AI/ML,62000.0,2026-08-17,isha@example.com
+1018,Rohan Patel,30.0,Mumbai,MERN,75000.0,2026-08-18,rohan@example.com
+1019,Maya Patel,150.0,Pune,DATA,80000.0,2026-08-19,maya@example.com
+1020,Nitin Shah,33.0,Bombay,DATA,51000.0,2026-08-20,nitin@example.com
+1021,Kajal Joshi,24.0,Surat,AI/ML,54000.0,2026-08-21,kajal@example.com
+1022,Om Patel,25.0,Delhi,MERN,9999999.0,2026-08-22,om@example.com
+1023,Tina Shah,19.0,Pune,data,27000.0,2026-08-23,tina@example.com
+1024,Vishal Mehta,34.0,Mumbai,MERN,88000.0,2026-08-24,vishal@example.com
+1025,Rakesh Kumar,28.0,Ahmedabad,DATA,72000.0,2026-08-25,rakesh@example.com
+1025,Rakesh Kumar,28.0,Ahmedabad,DATA,72000.0,2026-08-25,rakesh@example.com
