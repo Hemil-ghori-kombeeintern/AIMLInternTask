@@ -1,6 +1,5 @@
 # LLM Overview — Complete Learning Notes
 
-# LLM Overview — Complete Learning Notes
 
 ## 1. What is an LLM?
 
