@@ -58,6 +58,7 @@ dvc-studio-client==0.23.0
 dvc-task==0.40.2
 entrypoints==0.4
 executing==2.2.1
+faiss-cpu==1.15.0
 fastapi==0.141.1
 fastjsonschema==2.22.2
 filelock==3.32.4
@@ -191,6 +192,7 @@ scmrepo==3.6.2
 semantic-version==2.10.0
 semver==3.0.4
 Send2Trash==2.1.0
+sentence-transformers==6.0.1
 setuptools==84.0.0
 shellingham==1.5.4
 shortuuid==1.0.13
