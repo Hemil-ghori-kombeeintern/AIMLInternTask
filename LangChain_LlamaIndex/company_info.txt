@@ -1,0 +1,20 @@
+Our company is an AI and software development company.
+
+The company develops artificial intelligence, machine learning,
+web applications, mobile applications, and data engineering solutions.
+
+Employees receive 20 days of annual leave every year.
+Employees should submit their leave requests at least three
+working days before the requested leave date.
+
+The company provides health insurance to full-time employees.
+Employees can contact the HR department for insurance-related questions.
+
+The standard working hours are from 9:30 AM to 6:30 PM,
+Monday through Friday.
+
+The company uses Python, JavaScript, React, Node.js,
+PostgreSQL, Docker, and cloud technologies for software development.
+
+The AI team works on machine learning, deep learning,
+natural language processing, computer vision, and generative AI.
