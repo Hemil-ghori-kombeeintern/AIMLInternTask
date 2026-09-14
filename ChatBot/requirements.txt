@@ -1,0 +1,6 @@
+deepeval>=1.5.0
+google-genai
+streamlit
+python-dotenv
+pytest
+pydantic
